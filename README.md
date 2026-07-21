@@ -57,3 +57,7 @@ showtabtip/
 ```
 
 > `.vscode/c_cpp_properties.json` 仅用于让编辑器的 C/C++ 插件按 GCC 规则解析代码，消除 COM 宏相关的 IntelliSense 误报，不影响编译。
+
+## 许可证
+
+本项目采用 [GNU General Public License v3.0](LICENSE) 授权，完整条款见 [LICENSE](LICENSE) 文件。
